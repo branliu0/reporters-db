@@ -19652,7 +19652,9 @@
                 "us:ok;court.criminal.appeals"
             ],
             "name": "Oklahoma Neutral Citation (Civic Appeals)",
-            "variations": {}
+            "variations": {
+                "OK Civ. App.": "OK CIV APP"
+            }
         }
     ],
     "OK CR": [
